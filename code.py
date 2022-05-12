@@ -6,7 +6,6 @@ import os
 
 filename='out.pdf'
 email = "hassanraza1313@gmail.com"
-url = "facebook.com"
 mastercard = "5366190043207444"
 shortfile=filename.replace('.pdf','')
 print(mastercard)
